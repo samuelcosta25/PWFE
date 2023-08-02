@@ -1,0 +1,37 @@
+header {
+    background-color: rgb(54, 54, 54);
+    display: flex;
+    justify-content: space-between;
+    height: 15vh;
+}
+
+header img{
+    width: 90px;
+    height: 85px;
+
+}
+
+.carousel img{
+    height: 500px;
+    object-fit: cover;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 50%;
+}
+
+.linkmenu {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+body {
+    background-color: crimson;
+}
+
+
